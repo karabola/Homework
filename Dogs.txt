@@ -1,2 +1,8 @@
 boxer: boxer Fafik
 labrador:Rex
+
+boxer:Fafik
+boxer=Fafik
+Race r=new Race ("boxer");
+map.put(r, null);
+Dog d = new Dog(r, "Fafik");
