@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>XML file converted from filePropertiesToXML.properties</comment>
+<entry key="ItWasXMLFile3">3333</entry>
+<entry key="ItWasXMLFile2">2222</entry>
+<entry key="ItWasPropertiesFile3">ccc</entry>
+<entry key="ItWasXMLFile1">1111</entry>
+<entry key="boxer">Baks</entry>
+<entry key="ItWasPropertiesFile2">bbb</entry>
+<entry key="ItWasPropertiesFile1">aaa</entry>
+<entry key="labrador">Faks</entry>
+</properties>
